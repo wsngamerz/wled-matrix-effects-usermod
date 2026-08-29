@@ -1,5 +1,6 @@
 {
-  "name": "wled-usermod-example",
+  "name": "wled-matrix-effects-usermod",
+  "description": "A usermod containing some effects for a wled matrix.",
   "build": {
     "libArchive": false
   },
