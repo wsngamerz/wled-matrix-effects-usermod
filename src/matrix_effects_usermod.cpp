@@ -7,6 +7,8 @@ public:
     void setup() override {
         matrix_effects::registerWireframeCube();
         matrix_effects::registerPipes();
+        matrix_effects::registerNeonTunnel();
+        matrix_effects::registerWarpTunnel();
     }
 
     void loop() override {
